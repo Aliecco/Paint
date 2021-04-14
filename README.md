@@ -1,3 +1,3 @@
 # Paint
 
-I want to create a copy of " paint"
+I want to create a copy of " paint"!
