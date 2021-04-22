@@ -42,6 +42,7 @@ public class Paint extends Application {
             int blue1 = scn.nextInt();
             Color newColor = new Color(red1, green1, blue1);
             
+            String qwerty = scn.nextLine();
             
             boolean revise = true;
             while (revise){
@@ -90,6 +91,7 @@ public class Paint extends Application {
             }
             System.out.println("еще?");
             int asd = scn.nextInt();
+            String qwerty2 = scn.nextLine();
             
             if(asd!=1){
                 revise = false;
